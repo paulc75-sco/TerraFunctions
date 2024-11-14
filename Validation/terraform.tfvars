@@ -1,0 +1,6 @@
+rg_name                     = "testing123"
+location                    = "France Central"
+sg_name                     = "ct123"
+sg_account_tier             = "Standard"
+sg_account_replication_type = "GRS"
+subscription_id             = "0f1dffc2-a6e4-4e2b-82df-1ebf36770e60"
